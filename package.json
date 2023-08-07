@@ -8,7 +8,7 @@
     "lint": "eslint --fix \"./src/**/*.{js,jsx,ts,tsx,json}\"",
     "format": "prettier --write \"./src/**/*.{js,jsx,ts,tsx,json,css,scss,md}\"",
     "test:related": "jest --bail --findRelatedTests",
-    "test:full": "npm test"
+    "test:full": "jest"
   },
   "keywords": [
     "React",
