@@ -1,10 +1,5 @@
-@import 'bootstrap/scss/bootstrap.scss';
-
-.sgds-masthead {
-  .container-fluid {
-    max-width: 1440px !important;
-  }
-}
+@import '~@govtechsg/sgds/sass/sgds.scss';
+// @import 'bootstrap/scss/bootstrap.scss';
 
 .primary {
   background-color: palegreen;
